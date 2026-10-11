@@ -1,0 +1,17 @@
+#EXTM3U
+#PLAYLIST:EpicExplorationsTV ES - Videos (Direct YouTube URLs)
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YWzEzDqs4eU/mqdefault.jpg" group-title="Viajes",Maravillas de Argentina
+https://www.youtube.com/watch?v=YWzEzDqs4eU
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5uaaN5gxnN8/mqdefault.jpg" group-title="Viajes",Maravillas de Nueva Zelanda
+https://www.youtube.com/watch?v=5uaaN5gxnN8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iGYHQAmTJxE/mqdefault.jpg" group-title="Viajes",Maravillas de Indonesia
+https://www.youtube.com/watch?v=iGYHQAmTJxE
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AgebLzzNcbI/mqdefault.jpg" group-title="Viajes",Maravillas del Caribe
+https://www.youtube.com/watch?v=AgebLzzNcbI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RVz79qxGv4w/mqdefault.jpg" group-title="Viajes",Maravillas de Suiza
+https://www.youtube.com/watch?v=RVz79qxGv4w
